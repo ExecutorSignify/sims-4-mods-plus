@@ -29,4 +29,4 @@ It's aimed at everyday users as much as power users.
 
 ## Before you start
 - Works on Windows
-- Administrator rights for install   
+- Administrator rights for install    
